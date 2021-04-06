@@ -1,0 +1,35 @@
+@font-face {
+    font-family: Helvetica;
+    src: url('font/Helvetica.ttf');
+}
+
+.container {
+
+    font-family: Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 40px;
+
+}
+
+.code {
+    background-color: #d31f43;
+    color: white;
+    padding-bottom: 0;
+    padding-top: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+}   
+
+.accesscode {
+
+    border-bottom: 2px solid black;
+    font-weight: bolder;
+
+}
+
+.school {
+    letter-spacing: 32px;
+    margin-left: 24px;
+    font-size: 32px;
+}
